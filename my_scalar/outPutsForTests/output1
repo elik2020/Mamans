@@ -1,0 +1,13 @@
+Please enter the length of the vectors:4
+Please enter the values of the vectors to calculate the scalar product of them-
+Enter the values of the first vector:
+1
+-2
+3
+-4
+Enter the values of the second vector:
+6
+7
+1
+-2
+The scalar product is: 3
